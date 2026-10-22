@@ -1,0 +1,17 @@
+@import url('https://googleapis.com');
+body{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 500px;
+    background-color: #bbb1c6;
+}
+
+h1, h2, h3{
+    color:rgb(73, 28, 116);
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    color:rgb(27, 14, 40);
+    font-family: 'Oswald', sans-serif
+}
